@@ -8,15 +8,15 @@ sidebar_label: SolarEdge
 Hinzufügen über API:
 
 
-API öffentlich (max 300 abfragen pro Tag!)
+      API öffentlich (max 300 abfragen pro Tag!)
 
-      Anleitung muss noch erstellt werden
+            Anleitung muss noch erstellt werden
 
 
 
-API private (mit Modbuszähler unendlich abfragen pro Tag!)
+      API private (mit Modbuszähler unendlich abfragen pro Tag!)
 
-      Anleitung muss noch erstellt werden
+            Anleitung muss noch erstellt werden
 
 
 Hinzufügen über Modbus TCP (LAN only):
